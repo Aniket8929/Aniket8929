@@ -1,12 +1,18 @@
 # 💫 About Me
 
-I’m a **Frontend Developer & Data Analyst** who enjoys building responsive web applications and turning data into meaningful insights.
+I’m a **Frontend Developer & Data Analyst** passionate about building modern, responsive web applications and turning raw data into meaningful, actionable insights. I enjoy working at the intersection of **technology, design, and data** to create solutions that are both user-friendly and impactful.
 
-💻 **Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS
-📊 **Data Analytics:** SQL, Python, Pandas, NumPy, Excel, Power BI
-🗄️ **Database:** MySQL, PostgreSQL, MongoDB
-🌱 **Currently Learning:** MERN Stack & TypeScript
-✨ **Fun Fact:** I enjoy turning both designs and raw data into useful experiences and insights.
+💻 **Frontend Development:** React, JavaScript, HTML, CSS, Tailwind CSS, Responsive Design
+📊 **Data Analytics:** SQL, Python, Pandas, NumPy, Excel, Power BI, Data Visualization
+🗄️ **Databases:** MySQL, PostgreSQL, MongoDB
+⚙️ **Backend & APIs:** Node.js, Express.js, REST APIs, MERN Stack
+📈 **Analytics Focus:** Data Cleaning, Exploratory Data Analysis, Dashboard Development, Business Insights
+🎨 **Development Focus:** Clean UI, Reusable Components, Performance, Responsive & Accessible Interfaces
+🌱 **Currently Exploring:** TypeScript, Advanced MERN Development & Data-Driven Applications
+
+🚀 I enjoy solving real-world problems by combining **clean code, intuitive user experiences, scalable development practices, and data-driven thinking**.
+
+✨ My goal is to continuously learn, build meaningful projects, and turn ideas into **useful products and insights**.
 
 ## 🌐 Socials
 
@@ -21,7 +27,7 @@ I’m a **Frontend Developer & Data Analyst** who enjoys building responsive web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
 
 ### 📊 Data Analytics
 
